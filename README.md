@@ -1,0 +1,2 @@
+qbittorrent_plugins
+===================
