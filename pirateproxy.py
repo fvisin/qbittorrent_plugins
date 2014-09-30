@@ -1,6 +1,9 @@
 #VERSION: 1.53
 #AUTHORS: Fabien Devaux (fab@gnux.info)
 #CONTRIBUTORS: Christophe Dumez (chris@qbittorrent.org)
+#EDITOR: Francesco Visin
+#This is the original plugin by Fabien Devaux and Christophe Dumez modified to use a proxy website
+
 
 # Redistribution and use in source and binary forms, with or without
 # modification, are permitted provided that the following conditions are met:
